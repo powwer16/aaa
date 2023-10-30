@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: chikuwa
+    name: new-tawashi
     env: python
     region: Oregon
     plan: free
